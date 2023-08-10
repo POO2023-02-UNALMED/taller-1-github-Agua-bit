@@ -1,0 +1,1 @@
+Git no reconoce cambios de carpetas vacìas. Debe tener algùn archivo.
