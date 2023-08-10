@@ -1,0 +1,1 @@
+Cuando se crea un archivo dentro de la carpeta "archivos", se reconoce un cambio debido a que ya no està vacìo.
